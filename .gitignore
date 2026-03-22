@@ -1,0 +1,12 @@
+# Node
+node_modules/
+frontend/node/
+
+# Java
+target/
+
+# Large files
+*.mp4
+
+# OS
+.DS_Store
