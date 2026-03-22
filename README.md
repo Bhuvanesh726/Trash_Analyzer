@@ -1,6 +1,9 @@
 # Trashilizer — Industrial Waste Management System
 
-A professional full-stack waste management application built for Pharma-Industrial supply chain operations. Features real-time waste segregation monitoring, AI-powered sustainability reporting, and ROS 2 Bridge integration with fail-safe manual entry protocols.
+A professional full-stack waste management application built for Industrial supply chain operations. Features real-time waste segregation monitoring, AI-powered sustainability reporting, and ROS 2 Bridge integration with fail-safe manual entry protocols.
+
+You can see the operational working of the full stack app with the Webots Simulated environment in the below video link:
+https://drive.google.com/file/d/1YWsmqwKmc7TCusUcPXIKg84vz75zbC1I/view?usp=sharing
 
 ---
 
